@@ -1,0 +1,2 @@
+pandas~=2.2.0
+quixstreams~=2.8.0

@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "I <3 Kafka T-shirt",
+    "brand": "Quix",
+    "price": "19.99",
+    "currency": "GBP",
+    "quantity": 1,
+    "colour": "Blue",
+    "clothing_type": "T-shirt"
+}
