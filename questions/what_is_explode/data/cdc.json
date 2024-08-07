@@ -1,0 +1,22 @@
+{
+    "table_id": 1,
+    "table_name": "pets",
+    "changes": [
+        {
+            "op": "UPDATE",
+            "timestamp": 1723048290,
+            "id": "1",
+            "name": "Henry",
+            "type": "Cat",
+            "fave_food": "Tuna"
+        },
+        {
+            "OP": "INSERT",
+            "timestamp": 1723048300,
+            "id": "",
+            "name": "Bobby",
+            "type": "Dog",
+            "fave_food": "Sausages"
+        }
+    ]
+}
