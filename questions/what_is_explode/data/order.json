@@ -1,0 +1,26 @@
+{
+    "order_id": 1,
+    "timestamp": 1723047931,
+    "items": [
+        {
+            "item_id": 1,
+            "name": "I <3 Kafka T-shirt",
+            "brand": "Quix",
+            "price": "19.99",
+            "currency": "GBP",
+            "quantity": 1,
+            "colour": "Blue",
+            "clothing_type": "T-shirt"
+        },
+        {
+            "item_id": 2,
+            "name": "I <3 Kafka Cap",
+            "brand": "Quix",
+            "price": "29.99",
+            "currency": "GBP",
+            "quantity": 2,
+            "colour": "Black",
+            "clothing_type": "Cap"
+        }
+    ]
+}
